@@ -1,0 +1,46 @@
+h4 {
+    color:green;
+    text-align: center;
+
+}
+#username {
+    color:purple;
+}
+.bluetext {
+    color: brown;
+}
+#user_form p:nth-child(2) {
+    color:springgreen;
+    font-size: 32px;
+    font-style: italic;
+    font-weight: 400;
+    text-decoration: overline underline;
+}
+#user_form {
+    width: fit-content;
+    margin: 0 auto;
+} 
+input {
+    border-radius: 15px;
+}
+button {
+    width: 200px;
+    background-color: green;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    height: 20px;
+}
+body {
+    background-color: pink;
+}
+#container-center {
+    width: fit-content;
+    margin: 0 auto;
+    background-color: rgb(241, 215, 215);
+   
+
+}
+label {
+    margin-right: 20px;
+}
